@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=mintak21&count_private=true&theme=gruvbox)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mintak21&no-frame=true&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 # 📊 Skills
 
 ## Language
