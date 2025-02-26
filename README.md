@@ -69,4 +69,4 @@ Engineer for 10 years
 ### FindyTools Review
 
 - [CircleCIを用いてテストからリリースまでを省力化する](https://findy-tools.io/products/circleci/351/181)
-- GitHubActions（近日公開）
+- [GitHub Actionsの機能を利用してCI/CDをパッケージ化する](https://findy-tools.io/products/github-actions/366/389)
