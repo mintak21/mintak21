@@ -50,6 +50,10 @@ Engineer for 10 years
 </p>
 
 ## Outputs
+### Qiita Blogs
+
+- https://qiita.com/mintak21
+
 ### Zenn Blogs
 
 - [ベストTerraformディレクトリ構造を考える](https://zenn.dev/coconala/articles/7a49fee9893c95)
