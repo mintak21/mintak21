@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 
 # 📊 Skills
 
+## Overview
+
+Engineer for 10 years
+
+- SRE: 3 years
+- BackendEngineer: over 5 years
+- Team Manager: 4 years
+
 ## Language
 
 <p align="left"> <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="50" height="50"/> </a>
@@ -30,9 +38,9 @@ Here are some ideas to get you started:
 ## Framework / Cloud
 
 <p align="left">
+<a href="https://aws.amazon.com/jp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> </a>
 <a href="https://console.cloud.google.com/?hl=ja" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/> </a>
-<a href="https://jp.heroku.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-plain.svg" width="50" height="50"/> </a>
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://camo.githubusercontent.com/1a4ed08978379480a9b1ca95d7f4cc8eb80b45ad47c056a7cfb5c597e9315ae5/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f323838352f313632393934313234322d6c6f676f2d7465727261666f726d2d6d61696e2e737667" width="70" height="50"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="70" height="50"/> </a>
 <a href="https://kubernetes.io/ja/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="50" height="50"/> </a>
 <a href="https://github.co.jp/features/actions" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="50" height="50"/> </a>
@@ -40,3 +48,29 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.jp/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/> </a>
 <a href="https://www.nginx.co.jp/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" width="50" height="50"/> </a>
 </p>
+
+## Outputs
+### Qiita Blogs
+
+- https://qiita.com/mintak21
+
+### Zenn Blogs
+
+- [ベストTerraformディレクトリ構造を考える](https://zenn.dev/coconala/articles/7a49fee9893c95)
+- [EC2からECS on Fargateへ移行するまでの道のりとポイント](https://zenn.dev/coconala/articles/c41ac8bddae3a8)
+- [新生インフラ・SREチームの取り組み](https://zenn.dev/coconala/articles/da8787cbade8d0)
+- [GithubActionsでPrivateリポジトリへアクセスするときのキーをなくせ](https://zenn.dev/coconala/articles/40bd0a3e290d0d)
+- [これができればGitHub Actions上級者だ！](https://zenn.dev/coconala/articles/067078f3a6191b)
+
+### SpeakerDeck
+
+- [少人数で複数サービス運用するための日々の取り組み](https://speakerdeck.com/coconala_engineer/shao-ren-shu-defu-shu-sabisuyun-yong-surutamenori-noqu-rizu-mi)
+- [異なる思想で書かれたコードの統一に動く -Terraformの場合-](https://speakerdeck.com/coconala_engineer/yi-narusi-xiang-deshu-karetakodonotong-nidong-ku-terraformnochang-he)
+- [Terraform交通整備 〜大事故を防ぐために〜](https://speakerdeck.com/coconala_engineer/terraformjiao-tong-zheng-bei-da-shi-gu-wofang-gutameni)
+- [CircleCIを活用して AWSへの継続的デリバリーを実践する](https://speakerdeck.com/coconala_engineer/circleciwohuo-yong-site-awshenoji-sok-de-deribariwo-shi-jian-suru)
+- [IaC運用を続けて出会うイシューたち](https://speakerdeck.com/coconala_engineer/iacyun-yong-wosok-ketechu-hui-uisiyutati)
+
+### FindyTools Review
+
+- [CircleCIを用いてテストからリリースまでを省力化する](https://findy-tools.io/products/circleci/351/181)
+- [GitHub Actionsの機能を利用してCI/CDをパッケージ化する](https://findy-tools.io/products/github-actions/366/389)
