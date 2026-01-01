@@ -61,6 +61,7 @@ Engineer for 10 years
 - [新生インフラ・SREチームの取り組み](https://zenn.dev/coconala/articles/da8787cbade8d0)
 - [GithubActionsでPrivateリポジトリへアクセスするときのキーをなくせ](https://zenn.dev/coconala/articles/40bd0a3e290d0d)
 - [これができればGitHub Actions上級者だ！](https://zenn.dev/coconala/articles/067078f3a6191b)
+- [IaCコード管理の歴史](https://zenn.dev/coconala/articles/e67644a1825e1d)
 
 ### SpeakerDeck
 
