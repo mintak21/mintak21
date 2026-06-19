@@ -20,34 +20,23 @@ Here are some ideas to get you started:
 
 # 📊 Skills
 
-## Overview
+## Career Summary 
 
 Engineer for 10 years
 
-- SRE: 3 years
+- Cloud Infra / SRE: 5 years
 - BackendEngineer: over 5 years
 - Team Manager: 4 years
 
-## Language
+## Language / Framework
 
-<p align="left"> <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="50" height="50"/> </a>
-<a href="https://www.java.com/ja/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50"/> </a>
-<a href="https://www.python.jp/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="50" height="50"/> </a>
-</p>
-
-## Framework / Cloud
-
-<p align="left">
-<a href="https://aws.amazon.com/jp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> </a>
-<a href="https://console.cloud.google.com/?hl=ja" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/> </a>
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="70" height="50"/> </a>
-<a href="https://kubernetes.io/ja/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="50" height="50"/> </a>
-<a href="https://github.co.jp/features/actions" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="50" height="50"/> </a>
-<a href="https://circleci.com/ja/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/circleci/circleci-plain.svg" width="50" height="50"/> </a>
-<a href="https://www.postgresql.jp/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/> </a>
-<a href="https://www.nginx.co.jp/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" width="50" height="50"/> </a>
-</p>
+- Go
+- Python
+- AWS / Google Cloud
+- Terraform
+- Kubernetes
+- GitHubActions / CircleCI
+- MySQL / PostgreSQL
 
 ## Outputs
 ### Qiita Blogs
@@ -61,7 +50,9 @@ Engineer for 10 years
 - [新生インフラ・SREチームの取り組み](https://zenn.dev/coconala/articles/da8787cbade8d0)
 - [GithubActionsでPrivateリポジトリへアクセスするときのキーをなくせ](https://zenn.dev/coconala/articles/40bd0a3e290d0d)
 - [これができればGitHub Actions上級者だ！](https://zenn.dev/coconala/articles/067078f3a6191b)
+- [技術ブログに書けることがないわけない](https://zenn.dev/coconala/articles/0f2f02a8a7bea2)
 - [IaCコード管理の歴史](https://zenn.dev/coconala/articles/e67644a1825e1d)
+- [EKSアップグレードを型化する](https://zenn.dev/coconala/articles/efficient-eks-upgrade)
 
 ### SpeakerDeck
 
@@ -75,3 +66,4 @@ Engineer for 10 years
 
 - [CircleCIを用いてテストからリリースまでを省力化する](https://findy-tools.io/products/circleci/351/181)
 - [GitHub Actionsの機能を利用してCI/CDをパッケージ化する](https://findy-tools.io/products/github-actions/366/389)
+- [責任分界を意識してEC2からECSへ移行する](https://findy-tools.io/products/amazon-ecs/382/632)
